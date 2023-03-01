@@ -1,0 +1,11 @@
+@import "vendors/reset";
+
+@import "base/animations", "base/base";
+
+@import "layout/header", "layout/footer";
+
+@import "components/cartItem", "components/gallery", "components/galleryFooter",
+  "components/glass", "components/hero", "components/shoeCard",
+  "components/shopShoes", "components/subtitle";
+
+@import "pages/about", "pages/cart", "pages/home", "pages/login", "pages/signup";
